@@ -32,6 +32,6 @@ jpcw.tools is continuously
 
 + coverage tracked on coveralls.io |coveralls|_.
 
-.. |coveralls| image:: https://coveralls.io/repos/jpcw/jpcw.tools/badge.png
+.. |coveralls| image:: https://coveralls.io/repos/jpcw/jpcw.tools/badge.png?branch=master
 .. _coveralls: https://coveralls.io/r/jpcw/jpcw.tools
 
